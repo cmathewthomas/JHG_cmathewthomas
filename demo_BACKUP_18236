@@ -1,0 +1,7 @@
+ This is a demo file
+ :wq
+<<<<<<< HEAD
+This is updated
+=======
+This is trouble update
+>>>>>>> very-bad
